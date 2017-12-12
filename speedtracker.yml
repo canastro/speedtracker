@@ -50,7 +50,7 @@ encryptionKey: "a7bba387a4496ec04b6ac2c9"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-wptKey: "29d4ba56526ec5352757cc41a34e7da0c5c1be020bc42d85aa47fb6c4af72385d802"
+wptKey: "96f4b1c4f91336c41b69c6c7f937f9d9a4f7cd44e721bc96bb6df8ea94fca2cac49d"
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
@@ -69,4 +69,4 @@ wptKey: "29d4ba56526ec5352757cc41a34e7da0c5c1be020bc42d85aa47fb6c4af72385d802"
 alerts:
   emailAlert:
     type: "email"
-    recipients: ["ricardocanastro@gmail.com"]
+    recipients: ["a5b3b392bf4169c218339583bc24a1a8f7ffce19ef37bccbe3"]
